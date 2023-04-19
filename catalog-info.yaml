@@ -6,5 +6,5 @@ metadata:
     github.com/project-slug: joseacr/lambda-api-go-test
 spec:
   type: other
-  lifecycle: unknown
+  lifecycle: experimental
   owner: guests
