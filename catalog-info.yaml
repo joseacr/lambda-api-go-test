@@ -5,7 +5,7 @@ metadata:
   description: "A simple API developed in golang as serverless"
   annotations:
     github.com/project-slug: joseacr/lambda-api-go-test
-    backstage.io/techdocs-ref: dir:./documentation
+    backstage.io/techdocs-ref: dir:./
 spec:
   type: documentation
   lifecycle: experimental
