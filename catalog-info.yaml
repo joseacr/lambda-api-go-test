@@ -7,6 +7,6 @@ metadata:
     github.com/project-slug: joseacr/lambda-api-go-test
     backstage.io/techdocs-ref: dir:.
 spec:
-  type: documentation
+  type: service
   lifecycle: experimental
   owner: guests
