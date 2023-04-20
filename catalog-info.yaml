@@ -1,11 +1,11 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: lambda-api-go-test
+  name: "lambda-api-go-test"
   description: "A simple API developed in golang as serverless"
   annotations:
     github.com/project-slug: joseacr/lambda-api-go-test
-    backstage.io/techdocs-ref: dir:./
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: documentation
   lifecycle: experimental
