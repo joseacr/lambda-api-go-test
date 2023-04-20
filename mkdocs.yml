@@ -1,5 +1,5 @@
-site_name: "lambda-api-go-test"
-site_description: "A simple API developed in golang as serverless"
+site_name: lambda-api-go-test
+site_description: A simple API developed in golang as serverless
 
 nav:
   - Introduction: index.md
