@@ -1,0 +1,8 @@
+site_name: "Lambda API Go Test"
+site_description: "A simple API developed in golang as serverless"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
